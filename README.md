@@ -1,7 +1,7 @@
 ### **📰 AI-Powered News Reporter**  
 #### *An intelligent agent-based news research and reporting tool*  
 
-![News Reporter AI](https://user-images.githubusercontent.com/00000000/news-reporter-ai-banner.png)  
+![News Reporter AI](1.png)  
 
 ## **📌 Overview**  
 This project is an **AI-powered news research and writing assistant** that fetches **real-time news** using **Serper API**, analyzes trends, and generates reports using **Google Gemini AI (via LangChain)**. It is built using **CrewAI**, allowing multiple AI agents to collaborate on researching and writing news articles dynamically.
